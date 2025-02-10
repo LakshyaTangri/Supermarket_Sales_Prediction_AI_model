@@ -21,6 +21,7 @@ Supermarket_Sales_Analytics/
 ├── data/                  # Data csv storage
 ├── data_processing.py     # Data preprocessing and analysis
 ├── RNN.py                 # Neural Network
+├── LSTM-RNN.py            # Neural Network
 ├── visualizations/        # Generated visualization files
 
 ```
