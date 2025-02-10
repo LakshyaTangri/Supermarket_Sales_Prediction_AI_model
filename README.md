@@ -1,6 +1,6 @@
 # Supermarket Sales Analytics Platform
 
-A comprehensive data analytics solution that transforms supermarket sales data into actionable business insights through forecasting, and interactive visualization techniques.
+A comprehensive data analytics solution that transforms supermarket sales data into actionable business insights through forecasting.
 
 ## Features
 
