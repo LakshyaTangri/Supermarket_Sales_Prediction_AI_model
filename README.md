@@ -16,14 +16,27 @@ A comprehensive data analytics solution that transforms supermarket sales data i
 ## Project Structure
 ```
 Supermarket_Sales_Analytics/
-├── main.py                # run file
-├── requirements.txt       # Project dependencies
+├── main.py                
 ├── data/                  # Data csv storage
-├── data_processing.py     # Data preprocessing and analysis
-├── RNN.py                 # Neural Network
-├── LSTM-RNN.py            # Neural Network
-├── visualizations/        # Generated visualization files
+├── data_processing.py     
 
+# sales_forecasting/
+# ├── data/                      # Data preprocessing
+# │   ├── __init__.py
+# │   ├── dataset.py
+# │   ├── supermarket_sales.csv    #dataset
+# │   └── preprocessing.py
+# ├── models/                 # adding Neural Network Models 
+# │   ├── __init__.py
+# │   └── rnn_model.py
+# ├── training/
+# │   ├── __init__.py
+# │   └── trainer.py
+# ├── requirements.txt       # Project dependencies
+# ├── utils/
+# │   ├── __init__.py
+# │   └── metrics.py
+# └── main.py              # run file
 ```
 
 ## Installation
