@@ -1,6 +1,11 @@
 # Supermarket Sales Analytics Platform
 
-A comprehensive data analytics solution that transforms supermarket sales data into actionable business insights through forecasting.
+A Model to Forecast Seaonality trends in SuperMarket Sales
+
+Clone the repository
+
+Install requirement.txt
+Run main.py
 
 ## Features
 
@@ -57,7 +62,9 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
-4. Run Main.py
+4. Update the csv file to your data
+ 
+5. Run Main.py
 
 ## License
 [MIT License](LICENSE)
