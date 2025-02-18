@@ -1,6 +1,6 @@
 # Supermarket Sales Analytics Platform
 
-A Model to Forecast Seaonality trends in SuperMarket Sales
+A Model to predict Seaonality trends in SuperMarket Sales
 
 Clone the repository
 
@@ -9,12 +9,12 @@ Run main.py
 
 ## Features
 
-### Time Series Data Analysis & Forcasting 
+### Time Series Data Analysis & prediction 
 - **Sales Trend Analysis**: Interactive visualization of daily sales performance
 - **Product Performance**: Comprehensive analysis of product line sales and ratings
 - **Branch Analytics**: Sales distribution and customer ratings across branches
 - **Customer Insights**: Deep dive into customer segments and behavior
-- **Sales Forecasting**: 30-day sales predictions with trend analysis
+- **Sales prediction**: 30-day sales predictions with trend analysis
 - **Interactive Dashboard**: Web-based interface with responsive design
 
 
