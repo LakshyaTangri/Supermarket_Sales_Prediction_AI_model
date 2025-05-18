@@ -1,4 +1,4 @@
-# Supermarket Sales Analytics Platform
+# Supermarket Sales Analytics
 
 A Model to predict Seaonality trends in SuperMarket Sales
 
